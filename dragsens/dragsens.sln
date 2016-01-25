@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dragsens", "dragsens.vcxproj", "{1498BFAC-D1E6-4184-ACC2-ED9078230079}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://smartsam.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = dragsens.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1498BFAC-D1E6-4184-ACC2-ED9078230079}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1498BFAC-D1E6-4184-ACC2-ED9078230079}.Debug|Win32.Build.0 = Debug|Win32
+		{1498BFAC-D1E6-4184-ACC2-ED9078230079}.Release|Win32.ActiveCfg = Release|Win32
+		{1498BFAC-D1E6-4184-ACC2-ED9078230079}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
