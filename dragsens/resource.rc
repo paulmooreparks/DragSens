@@ -51,8 +51,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,4,0,1
- PRODUCTVERSION 1,4,0,1
+ FILEVERSION 1,5,0,1
+ PRODUCTVERSION 1,5,0,1
  FILEFLAGSMASK 0x17L
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -70,12 +70,12 @@ BEGIN
             VALUE "Comments", "Change the desktop mouse-drag sensitivity."
             VALUE "CompanyName", "Paul M. Parks, paul@parkscomputing.com, http://www.parkscomputing.com/"
             VALUE "FileDescription", "dragsens"
-            VALUE "FileVersion", "1.4.0.1"
+            VALUE "FileVersion", "1.5.0.1"
             VALUE "InternalName", "dragsens"
             VALUE "LegalCopyright", "To the extent possible under law, Paul M. Parks has waived all copyright and related or neighboring rights to dragsens. This work is published from The United States."
             VALUE "OriginalFilename", "dragsens.exe"
             VALUE "ProductName", "dragsens"
-            VALUE "ProductVersion", "1.4.0.1"
+            VALUE "ProductVersion", "1.5.0.1"
         END
     END
     BLOCK "VarFileInfo"
