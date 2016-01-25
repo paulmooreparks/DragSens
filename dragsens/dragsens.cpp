@@ -32,7 +32,7 @@ void usage(bool showDescription)
       L"Version 1.5\n"
       L"Paul M. Parks\n"
       L"paul@parkscomputing.com\n"
-      L"http://www.parkscomputing.com/\n";
+      L"http://www.parkscomputing.com/applications/DragSens/\n";
 
    if (showDescription) {
       std::wcout << description;
