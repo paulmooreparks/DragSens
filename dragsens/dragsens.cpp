@@ -29,7 +29,7 @@ void usage(bool showDescription)
 
    const wchar_t version[] =
       L"\n"
-      L"Version 1.4\n"
+      L"Version 1.5\n"
       L"Paul M. Parks\n"
       L"paul@parkscomputing.com\n"
       L"http://www.parkscomputing.com/\n";
